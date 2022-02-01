@@ -50,7 +50,7 @@ $lang = array(
 'Não',
 
 'not_authorized' =>
-'Você não está autorizado(a) a executar esta ação',
+  'Você não tem autorização para executar esta ação',
 
 'not_available' =>
 'Não disponível',

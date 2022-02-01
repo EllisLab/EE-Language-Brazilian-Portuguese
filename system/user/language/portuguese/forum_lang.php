@@ -102,7 +102,7 @@ $lang = array(
 'Você não possui autorização para publicar neste fórum',
 
 'can_not_post_in_forum' =>
-'Você não está autorizado(a) a publicar neste fórum',
+  'Você não tem autorização para publicar neste fórum',
 
 'can_not_split' =>
 'Você não possui permissões para dividir assuntos no fórum que você especificou.',

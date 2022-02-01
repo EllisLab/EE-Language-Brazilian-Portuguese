@@ -1236,7 +1236,7 @@ $lang = array(
 '<b>Nota</b>: Se designado para um canal com publicações existentes, estas publicações serão modificadas para este valor.',
 
 'unauthorized_for_this_channel' =>
-'Você não está autorizado a publicar neste canal',
+  'Você não tem autorização para publicar neste canal',
 
 'db_column_type' =>
 'Tipo de coluna no banco de dados',

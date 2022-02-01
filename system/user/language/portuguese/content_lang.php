@@ -1088,7 +1088,7 @@ $lang = array(
 'Não foi possível criar um título de <abbr title=\"Unified Resource Locator\">URL</abbr> Válida para sua publicação',
 
 'unauthorized_for_any_channels' =>
-'Você não está autorizado a publicar conteúdo no canal',
+  'Você não tem autorização para publicar conteúdo em qualquer canal',
 
 'unauthorized_for_this_channel' =>
 'Você não possui autorização para publicar neste canal',

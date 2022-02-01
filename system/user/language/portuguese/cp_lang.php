@@ -267,7 +267,7 @@ $lang = array(
 'Não autorizado',
 
 'unauthorized_access' =>
-'Você não está autorizado a acessar esta página',
+  'Você não tem autorização para acessar esta página',
 
 'machines_only_request' =>
 'Você não deveria estar aqui. Essa é a terra dos robôs e das máquinas.',

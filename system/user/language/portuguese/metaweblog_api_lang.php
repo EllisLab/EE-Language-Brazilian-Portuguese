@@ -110,7 +110,7 @@ $lang = array(
 
 'unable_to_upload' => 'Não foi possível Enviar o arquivo',
 
-'unauthorized_action' => 'Você não está autorizado(a) a executar esta ação.',
+  'unauthorized_action' => 'Você não tem autorização para executar esta ação.',
 
 );
 
